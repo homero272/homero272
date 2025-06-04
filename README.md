@@ -18,7 +18,7 @@
 
 ### ⚙️ Frameworks & Tools
 - React, Git, .NET, MySQL, PowerApps, PowerAutomate, Unreal Engine  
-- Familiar with REST APIs, WebSockets, Scrum, DFS/BFS, Threading, Synchronization
+- Familiar with REST APIs, WebSockets, Scrum, Threading & Synchronization
 
 ---
 
